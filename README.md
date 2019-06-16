@@ -2,7 +2,7 @@ Goals:
   - scalajs-react 1.4.2+
   - [scalacss](https://github.com/japgolly/scalacss)
   - [scalatags](https://github.com/lihaoyi/scalatags)
-  - cross project (client server, both scala, https://www.scala-js.org/doc/project/cross-build.html)
+  - [cross project](https://github.com/portable-scala/sbt-crossproject/tree/master/project), based on [this](https://www.scala-js.org/doc/project/cross-build.html)
   - [scala-bundler](https://scalacenter.github.io/scalajs-bundler/reference.html)
   - yarn
   - [sbt](https://www.scala-sbt.org/1.x/docs/index.html) 1.2.8+
