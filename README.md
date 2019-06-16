@@ -7,7 +7,7 @@ Goals:
   - yarn
   - [sbt](https://www.scala-sbt.org/1.x/docs/index.html) 1.2.8+
   - Scala 2.12+
-  - Scala.JS 1.0+
+  - [Scala.JS 1.0+](https://www.scala-js.org/news/2019/06/03/announcing-scalajs-1.0.0-M8/)
   - akka-http (and simple REST API + serving the "APP")
   - async unit test running in scalajs on node.js, for example : 
     - [here](https://github.com/jhegedus42/irie/blob/23f745d36edc4d6d80d3e6a523b58324649aa77f/layer_V_JS_client/src/test/scala/app/client/comm/RESTTest.scala#L6)  (this is just a stub for now)
