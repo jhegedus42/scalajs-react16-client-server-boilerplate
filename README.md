@@ -5,7 +5,7 @@ Goals:
   - cross project (client server, both scala, https://www.scala-js.org/doc/project/cross-build.html)
   - [scala-bundler](https://scalacenter.github.io/scalajs-bundler/reference.html)
   - yarn
-  - sbt 1.2.8+
+  - [sbt](https://www.scala-sbt.org/1.x/docs/index.html) 1.2.8+
   - Scala 2.12+
   - Scala.JS 1.0+
   - akka-http (and simple REST API + serving the "APP")
